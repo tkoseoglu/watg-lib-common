@@ -34,3 +34,5 @@ if (window.console && typeof (window.console.time) == "undefined") {
         return diff;
     };
 }
+
+//added tag
