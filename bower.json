@@ -1,0 +1,24 @@
+{
+  "name": "watg-lib-common",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tkoseoglu/watg-lib-common",
+  "authors": [
+    "Tolga <tkoseoglu@live.com>"
+  ],
+  "description": "common javascript code",
+  "main": "main.js",
+  "keywords": [
+    "javascript",
+    "WATG",
+    "common",
+    "code"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

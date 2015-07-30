@@ -1,0 +1,25 @@
+{
+  "name": "watg-lib-common",
+  "version": "0.0.1",
+  "description": "common watg javascript code",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tkoseoglu/watg-lib-common.git"
+  },
+  "keywords": [
+    "javascript",
+    "watg",
+    "code",
+    "common"
+  ],
+  "author": "tolga koseoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkoseoglu/watg-lib-common/issues"
+  },
+  "homepage": "https://github.com/tkoseoglu/watg-lib-common"
+}
