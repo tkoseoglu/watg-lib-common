@@ -1,6 +1,6 @@
 {
   "name": "watg-lib-common",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "common watg javascript code",
   "main": "main.js",
   "scripts": {
